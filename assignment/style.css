@@ -1,0 +1,48 @@
+header {
+    background-color: rgb(73, 76, 78);
+    font-family: Calibri;
+  }
+
+main {
+    background-color: rgb(78, 100, 107);
+    font-family: Calibri;
+  }
+
+h1 { text-align:center;
+    font-family: Calibri;
+}
+
+h2 { 
+    background-color: rgb(20, 61, 89);
+    text-align:center;
+    font-family: Calibri;
+}
+
+h3 { 
+    background-color: rgb(20, 61, 89);
+    text-align:center;
+    font-family: Calibri;
+}
+
+p { 
+    color: #f4f4f7;
+    font-family: Calibri;
+
+  }
+
+img {
+    
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  }
+
+li {
+    font-family: Calibri;
+  }
+
+footer {
+    background-color: lightblue;
+    font-family: Calibri ;
+  }
